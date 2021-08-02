@@ -1,2 +1,7 @@
-Copy paste the all the commands that you executed on IDLE:
-
+>>> 273.15 + 25
+>>> 911 - 314
+>>> 3 * 19
+>>> 2020 / 17
+>>> 2020 / 19
+>>> 2021 % 21
+>>> 2 ** 7
